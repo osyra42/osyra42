@@ -1,53 +1,47 @@
-name: Generate snake animation
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs at minute 0 past every 12th hour
-
+    - cron: "0 */12 * * *"  # Every 12 hours at minute 0
   workflow_dispatch:
-
   push:
     branches:
       - main
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    
+    permissions:
+      contents: write  # Needed to push to the branch
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: snake.svg?palette=github-dark
+          outputs: |
+            snake.svg?palette=github-dark
+            snake.gif?palette=github-dark
 
-      - name: Commit and push snake.svg to output branch
-        uses: actions/github-script@v6
+      - name: Checkout output branch
+        uses: actions/checkout@v4
         with:
-          script: |
-            const fs = require('fs');
-            const { repo, owner } = context.repo;
-            const message = 'Update snake animation';
-            const branch = 'output';
-            
-            // Check if file exists
-            if (!fs.existsSync('snake.svg')) {
-              core.setFailed('snake.svg not found');
-              return;
-            }
+          ref: 'output'
+          path: './output'
 
-            // Push directly to output branch
-            await github.rest.repos.createOrUpdateFileContents({
-              owner,
-              repo,
-              path: 'snake.svg',
-              message,
-              content: fs.readFileSync('snake.svg', { encoding: 'base64' }),
-              branch
-            });
+      - name: Move generated files
+        run: |
+          mkdir -p ./output
+          mv snake.svg ./output/
+          mv snake.gif ./output/
+
+      - name: Commit and Push
+        run: |
+          cd ./output
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update snake animation - $(date)"
+          git push
