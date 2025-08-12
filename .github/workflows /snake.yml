@@ -1,47 +1,45 @@
-name: Generate Snake Animation
+name: Update Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours at minute 0
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     permissions:
-      contents: write  # Needed to push to the branch
-
+      contents: write
+    
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: osyra42  # Hardcoded your username here
           outputs: |
-            snake.svg?palette=github-dark
-            snake.gif?palette=github-dark
+            snake.svg
+            snake.gif
+          palette: github-dark
 
-      - name: Checkout output branch
+      - name: Checkout Output Branch
         uses: actions/checkout@v4
         with:
-          ref: 'output'
-          path: './output'
+          ref: output
+          path: output-files
 
-      - name: Move generated files
+      - name: Move Files
         run: |
-          mkdir -p ./output
-          mv snake.svg ./output/
-          mv snake.gif ./output/
+          mkdir -p output-files
+          mv snake.svg output-files/
+          mv snake.gif output-files/
 
-      - name: Commit and Push
+      - name: Commit & Push
         run: |
-          cd ./output
+          cd output-files
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Update snake animation - $(date)"
+          git commit -m "Update snake animation - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
