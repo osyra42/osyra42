@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/osyra42/osyra42/output/snake.svg" alt="Snake animation" />
+
 ## Hi there 👋
 
 **osyra42/osyra42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
