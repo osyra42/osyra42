@@ -1,8 +1,8 @@
-name: Update Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -14,32 +14,38 @@ jobs:
       contents: write
     
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: osyra42  # Hardcoded your username here
-          outputs: |
-            snake.svg
-            snake.gif
-          palette: github-dark
-
-      - name: Checkout Output Branch
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           ref: output
-          path: output-files
+          path: output
 
-      - name: Move Files
-        run: |
-          mkdir -p output-files
-          mv snake.svg output-files/
-          mv snake.gif output-files/
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: osyra42
+          outputs: |
+            snake.svg
+            snake-dark.svg?palette=github-dark
+            snake.gif
+          svg_only: false
 
-      - name: Commit & Push
+      - name: Verify Files Exist
+        id: verify
         run: |
-          cd output-files
+          echo "Checking generated files..."
+          ls -la
+          if [ ! -f "snake.svg" ]; then
+            echo "::error::snake.svg was not generated!"
+            exit 1
+          fi
+          echo "Files verified successfully"
+
+      - name: Commit and Push
+        working-directory: ./output
+        run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Update snake animation - $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+          git commit -m "Update snake: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push origin output
