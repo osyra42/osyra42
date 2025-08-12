@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/osyra42/osyra42/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/output/snake.svg)
 
 ## Hi there 👋
 
