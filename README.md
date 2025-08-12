@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/osyra42/osyra42/blob/output/snake.svg)
+![Snake animation](https://github.com/osyra42/osyra42/blob/output/dist/snake.svg)
 
 ## Hi there 👋
 
