@@ -1,5 +1,7 @@
 # 🍔 **osyra42's Profile** 🍔
-[![Website](https://img.shields.io/badge/🍔_BurgerByte-6F4E37?logo=buymeacoffee&logoColor=FFDD00)](https://burgerbytestudio.com)
+[![Static Badge](https://img.shields.io/badge/Website?logo=%F0%9F%8D%94&logoColor=ffdd00&color=6F4E37)](https:burgerbytestudio.com)
+
+[![Twitch](https://img.shields.io/badge/Twitch-Live_Integration-9146FF?logo=twitch)](https://www.twitch.tv/osyra42)  
 **"Progress is made one *Nybble* at a time."**  
 *(4 bits of code 🖥️ | a burger bite 🍔 | Vanity's fake crypto 💸)*  
 
