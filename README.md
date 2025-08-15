@@ -43,7 +43,8 @@ Full-stack developer specializing in:
 
 **Content Channels:**  
 [![YouTube](https://img.shields.io/badge/YouTube-Technical_Content-FF0000?logo=youtube)](https://www.youtube.com/@osyra42)  
-
+[![Twitch](https://img.shields.io/badge/Twitch-Live_Integration-9146FF?logo=twitch)](https://www.twitch.tv/osyra42)  
+[![Discord](https://img.shields.io/badge/Discord-Chat_Platform-5865F2?logo=discord)](https://discord.gg/mUYTdwXB7v)
 ---
 
 ## 🚀 Current Focus Areas  
