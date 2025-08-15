@@ -1,5 +1,6 @@
-# 🍔 **osyra42's Digital Diner**  
-**"Progress is made on *Nybble* at a time"**  
+# 🍔 **osyra42's Profile** 🍔
+[![Website](https://img.shields.io/badge/🍔_BurgerByte-6F4E37?logo=buymeacoffee&logoColor=FFDD00)](https://burgerbytestudio.com)
+**"Progress is made one *Nybble* at a time."**  
 *(4 bits of code 🖥️ | a burger bite 🍔 | Vanity's fake crypto 💸)*  
 
 ---
@@ -8,7 +9,7 @@
 Full-stack developer specializing in:  
 - **AI/chatbot systems** - Custom personality-driven interfaces  
 - **Live streaming integrations** - Real-time interaction platforms  
-- **Creative technical solutions** - [BurgerByte Studio](https://burgerbytestudio.com)  
+- **Creative technical solutions** - 
 
 ---
 
@@ -27,16 +28,6 @@ Full-stack developer specializing in:
 
 ---
 
-## 📊 Development Activity  
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osyra42&show_icons=true&theme=professional&hide_border=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osyra42&layout=compact&theme=professional&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 ## 📬 Professional Connections  
 **Business Inquiries:** [burgerbytestudio@proton.me](mailto:burgerbytestudio@proton.me)  
 **Technical Discussion:** Discord `@osyra42`  
@@ -51,6 +42,16 @@ Full-stack developer specializing in:
 - **Streaming technology** - Enhanced bot interaction systems  
 - **Emergent AI applications** - Personality modeling experiments  
 - **Developer content** - Technical livestreams and tutorials  
+
+---
+
+## 📊 Development Activity  
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osyra42&show_icons=true&theme=professional&hide_border=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osyra42&layout=compact&theme=professional&hide_border=true&langs_count=6)
+
+</div>
 
 ---
 
