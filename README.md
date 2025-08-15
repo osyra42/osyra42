@@ -1,64 +1,68 @@
-# 🍔 **osyra42's Profile** 🍔
-[![Website](https://img.shields.io/badge/BurgerByteStudio.com-4B3621?logo=hackthebox&logoColor=white)](https://burgerbytestudio.com)
+# 🍔 osyra42 | BurgerByte Studio
+[![Website](https://img.shields.io/badge/Portfolio-4B3621?logo=google-chrome&logoColor=white)](https://burgerbytestudio.com)
+[![Email](https://img.shields.io/badge/Contact-8B89CC?logo=protonmail)](mailto:burgerbytestudio@proton.me)
+[![Discord](https://img.shields.io/badge/Chat-5865F2?logo=discord)](https://discord.gg/mUYTdwXB7v)
 
-[![Twitch](https://img.shields.io/badge/Twitch-Live_Integration-9146FF?logo=twitch)](https://www.twitch.tv/osyra42)  
-**"Progress is made one *Nybble* at a time."**  
-*(4 bits of code 🖥️ | a burger bite 🍔 | Vanity's fake crypto 💸)*  
-
----
-
-## 👨‍💻 Technical Profile  
-Full-stack developer specializing in:  
-- **AI/chatbot systems** - Custom personality-driven interfaces  
-- **Live streaming integrations** - Real-time interaction platforms  
-- **Creative technical solutions** - 
+**"Progress is made one Nybble at a time"**  
+*(4 bits of code 🖥️ | a burger bite 🍔 | digital economy 💸)*
 
 ---
 
-## 🤖 Flagship Project: Vanity Bot  
-*Advanced conversational AI for Twitch/Discord (2017-Present)*  
-
-**Technical Highlights:**  
-- **Voice synthesis pipeline** - Google TTS → FFmpeg → PyAudio integration  
-- **Dynamic personality engine** - OpenAI API-driven response generation  
-- **High-concurrency architecture** - Multi-threaded chat processing  
-- **Custom economy system** - Experimental token-based interactions  
-
-**Platform Integration:**  
-[![Twitch](https://img.shields.io/badge/Twitch-Live_Integration-9146FF?logo=twitch)](https://www.twitch.tv/osyra42)  
-[![Discord](https://img.shields.io/badge/Discord-Chat_Platform-5865F2?logo=discord)](https://discord.gg/mUYTdwXB7v)
+## 🛠️ Technical Expertise
+**Full-stack developer specializing in:**
+- 🤖 **AI Personality Engineering** - Custom chatbot systems
+- 📡 **Live Streaming Tech** - Real-time interaction platforms
+- 🧩 **Creative Problem Solving** - Unconventional technical solutions
 
 ---
 
-## 📬 Professional Connections  
-**Business Inquiries:** [burgerbytestudio@proton.me](mailto:burgerbytestudio@proton.me)  
-**Technical Discussion:** Discord `@osyra42`  
+## 🤖 Vanity Bot Project
+*Advanced conversational AI for Twitch/Discord platforms*
 
-**Content Channels:**  
-[![YouTube](https://img.shields.io/badge/YouTube-Technical_Content-FF0000?logo=youtube)](https://www.youtube.com/@osyra42)  
-[![Twitch](https://img.shields.io/badge/Twitch-Live_Integration-9146FF?logo=twitch)](https://www.twitch.tv/osyra42)  
-[![Discord](https://img.shields.io/badge/Discord-Chat_Platform-5865F2?logo=discord)](https://discord.gg/mUYTdwXB7v)
----
+**Core Systems:**
+- 🎚️ **Voice Pipeline** - TTS → FFmpeg → PyAudio integration
+- � **Personality Matrix** - Dynamic response generation
+- ⚡ **High-Concurrency** - 50+ simultaneous chat channels
+- 💎 **Nybble Economy** - Experimental interaction rewards
 
-## 🚀 Current Focus Areas  
-- **Streaming technology** - Enhanced bot interaction systems  
-- **Emergent AI applications** - Personality modeling experiments  
-- **Developer content** - Technical livestreams and tutorials  
+**Live Platforms:**
+[![Twitch](https://img.shields.io/badge/Twitch_Live-9146FF?logo=twitch)](https://www.twitch.tv/osyra42)
+[![YouTube](https://img.shields.io/badge/YouTube_Tutorials-FF0000?logo=youtube)](https://www.youtube.com/@osyra42)
 
 ---
 
-## 📊 Development Activity  
+## 📊 Development Metrics
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osyra42&show_icons=true&theme=professional&hide_border=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osyra42&layout=compact&theme=professional&hide_border=true&langs_count=6)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osyra42&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osyra42&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-**Fork this repo** for a side of ✨ *personality-driven profile crafting* ✨  
-*Condiments (customizations) extra.*  
+## 🌐 Current Focus
+**Research & Development:**
+- 🧠 Machine learning for gameplay agents
+- 💬 Natural language interaction patterns
+- 🚀 Performance optimization techniques
 
-![BurgerByte Banner](https://via.placeholder.com/1280x320/222/FFFFFF?text=🍔+Welcome+to+BurgerByte+Studio)  
-*^ Custom banner idea! Replace with your actual art ^*  
+**Content Creation:**
+- 📺 Technical livestreams
+- 🎓 Developer tutorials
+- 📝 Open-source documentation
+
+---
+
+## � Connect
+**Professional:**  
+`Discord:` @osyra42  
+`Email:` burgerbytestudio@proton.me  
+
+**Community:**  
+[Join our Discord](https://discord.gg/mUYTdwXB7v)  
+[Watch on Twitch](https://www.twitch.tv/osyra42)  
+
+*"Let's build something remarkable"*  
+
+![Banner](https://via.placeholder.com/1280x320/222/FFFFFF?text=BurgerByte+Studio+%7C+Code+%2B+Creativity)
