@@ -1,5 +1,5 @@
 # 🍔 **osyra42's Profile** 🍔
-[![Website](https://img.shields.io/badge/BurgerByte_Studio-4B3621?logo=hackthebox&logoColor=white)](https://burgerbytestudio.com)
+[![Website](https://img.shields.io/badge/BurgerByteStudio.com-4B3621?logo=hackthebox&logoColor=white)](https://burgerbytestudio.com)
 
 [![Twitch](https://img.shields.io/badge/Twitch-Live_Integration-9146FF?logo=twitch)](https://www.twitch.tv/osyra42)  
 **"Progress is made one *Nybble* at a time."**  
