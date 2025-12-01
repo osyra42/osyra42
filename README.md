@@ -1,37 +1,63 @@
-# 🍔 osyra42 | BurgerByte Studio
-[![Website](https://img.shields.io/badge/Portfolio-4B3621?logo=google-chrome&logoColor=white)](https://burgerbytestudio.com)
-[![Email](https://img.shields.io/badge/Contact-8B89CC?logo=protonmail)](mailto:burgerbytestudio@proton.me)
-[![Discord](https://img.shields.io/badge/Chat-5865F2?logo=discord)](https://discord.gg/mUYTdwXB7v)
+# osyra42 | Coffee Byte Dev
+[![Website](https://img.shields.io/badge/Portfolio-4B3621?logo=google-chrome&logoColor=white)](https://coffeebyte.dev)
+[![Email](https://img.shields.io/badge/Contact-8B89CC?logo=protonmail)](mailto:coffeebytedev@proton.me)
+[![Discord](https://img.shields.io/badge/Chat-5865F2?logo=discord)](https://discordapp.com/users/163839418623459330)
 
-**"Progress is made one Nybble at a time"**  
-*(4 bits of code 🖥️ | a burger bite 🍔 | digital economy 💸)*
-
----
-
-## 🛠️ Technical Expertise
-**Full-stack developer specializing in:**
-- 🤖 **AI Personality Engineering** - Custom chatbot systems
-- 📡 **Live Streaming Tech** - Real-time interaction platforms
-- 🧩 **Creative Problem Solving** - Unconventional technical solutions
+**"Progress happens one sip at a time"**
 
 ---
 
-## 🤖 Vanity Bot Project
-*Advanced conversational AI for Twitch/Discord platforms*
+## About Me
 
-**Core Systems:**
-- 🎚️ **Voice Pipeline** - TTS → FFmpeg → PyAudio integration
-- � **Personality Matrix** - Dynamic response generation
-- ⚡ **High-Concurrency** - 50+ simultaneous chat channels
-- 💎 **Nybble Economy** - Experimental interaction rewards
-
-**Live Platforms:**
-[![Twitch](https://img.shields.io/badge/Twitch_Live-9146FF?logo=twitch)](https://www.twitch.tv/osyra42)
-[![YouTube](https://img.shields.io/badge/YouTube_Tutorials-FF0000?logo=youtube)](https://www.youtube.com/@osyra42)
+Multidisciplinary digital creator bridging code, art, and storytelling. Over the past eight years, I've built everything from AI-powered Discord bots with VTuber avatars to interactive educational tools, custom 3D-printed designs, and published fantasy novels.
 
 ---
 
-## 📊 Development Metrics
+## Technical Skills
+
+**Frontend Development**
+- HTML5, CSS3, JavaScript (ES6+)
+- Canvas API & 2D Graphics
+- Responsive & Mobile-First Design
+- Progressive Web Applications
+
+**Backend & Automation**
+- Python Scripting & Automation
+- PHP, SQLite & Database Design
+- RESTful API Integration
+- Server Administration
+
+**AI & Machine Learning**
+- AI Prompt Engineering
+- Large Language Model Integration
+- Natural Language Processing
+- AI-Powered Bot Development
+
+**3D & Visual Design**
+- 3D Modeling, Sculpting & Rigging
+- VRM/VTuber Avatar Creation
+- 3D Printing & CAD Design
+- Texture Mapping & UV Unwrapping
+
+---
+
+## Featured Projects
+
+**Vanity Bot**
+Custom-built Discord bot featuring AI research capabilities, music integration, and real-time responses. Handles 50+ simultaneous chat channels with voice pipeline integration (TTS, FFmpeg, PyAudio).
+
+**Educational Worksheets**
+Interactive canvas-based worksheet generators for arithmetic, measurements, currency counting, and vocabulary. Features randomized problems, multi-page print support, and answer key toggling.
+
+**Creative Writing**
+Author of sci-fi and fantasy stories including *Infinite Devastation*, *Ever Diamond*, and the ongoing series *Osyra's Tale*.
+
+**Minecraft Server**
+Custom server management with modpacks like All The Mods 10, including seasonal archives for the community.
+
+---
+
+## Development Metrics
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osyra42&show_icons=true&theme=radical&hide_border=true)
@@ -41,28 +67,14 @@
 
 ---
 
-## 🌐 Current Focus
-**Research & Development:**
-- 🧠 Machine learning for gameplay agents
-- 💬 Natural language interaction patterns
-- 🚀 Performance optimization techniques
+## Connect
 
-**Content Creation:**
-- 📺 Technical livestreams
-- 🎓 Developer tutorials
-- 📝 Open-source documentation
+**Professional:**
+`Discord:` osyra42
+`Email:` coffeebytedev@proton.me
 
----
-
-## � Connect
-**Professional:**  
-`Discord:` @osyra42  
-`Email:` burgerbytestudio@proton.me  
-
-**Community:**  
-[Join our Discord](https://discord.gg/mUYTdwXB7v)  
-[Watch on Twitch](https://www.twitch.tv/osyra42)  
-
-*"Let's build something remarkable"*  
-
-![Banner](https://via.placeholder.com/1280x320/222/FFFFFF?text=BurgerByte+Studio+%7C+Code+%2B+Creativity)
+**Platforms:**
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/osyra42)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@osyra42)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://osyra42.itch.io)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48024?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2237706/osyra42)
