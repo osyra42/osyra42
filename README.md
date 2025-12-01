@@ -57,24 +57,11 @@ Custom server management with modpacks like All The Mods 10, including seasonal 
 
 ---
 
-## Development Metrics
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osyra42&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osyra42&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## Connect
 
-**Professional:**
-`Discord:` osyra42
-`Email:` coffeebytedev@proton.me
-
-**Platforms:**
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/osyra42)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@osyra42)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://osyra42.itch.io)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48024?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2237706/osyra42)
+[![Discord](https://img.shields.io/badge/Discord-osyra42-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/163839418623459330)
+[![Email](https://img.shields.io/badge/Email-coffeebytedev@proton.me-8B89CC?logo=protonmail&logoColor=white)](mailto:coffeebytedev@proton.me)
+[![Twitch](https://img.shields.io/badge/Twitch-osyra42-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/osyra42)
+[![YouTube](https://img.shields.io/badge/YouTube-osyra42-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@osyra42)
+[![itch.io](https://img.shields.io/badge/itch.io-osyra42-FA5C5C?logo=itch.io&logoColor=white)](https://osyra42.itch.io)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-osyra42-F48024?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2237706/osyra42)
