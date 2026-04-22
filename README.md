@@ -9,7 +9,7 @@
 
 ## About Me
 
-Multidisciplinary digital creator bridging code, art, and storytelling. Over the past eight years, I've built everything from AI-powered Discord bots with VTuber avatars to interactive educational tools, custom 3D-printed designs, and published fantasy novels.
+Multidisciplinary digital creator bridging code, art, and storytelling. Over the past decade-plus, I've built AI-powered Discord bots with VTuber avatars, a custom markdown parser, a pixel dungeon crawler, cross-platform launcher tooling, educational worksheets, 3D-printed designs, and an ongoing sci-fi noir series. I also run a three-server Minecraft community — vanilla, modded, and a private group.
 
 ---
 
@@ -25,7 +25,7 @@ Multidisciplinary digital creator bridging code, art, and storytelling. Over the
 - Python Scripting & Automation
 - PHP, SQLite & Database Design
 - RESTful API Integration
-- Server Administration
+- Server Administration (14+ years Minecraft hosting)
 
 **AI & Machine Learning**
 - AI Prompt Engineering
@@ -33,27 +33,47 @@ Multidisciplinary digital creator bridging code, art, and storytelling. Over the
 - Natural Language Processing
 - AI-Powered Bot Development
 
+**Game Development**
+- GameMaker Studio 2
+- Procedural generation (drunkard's walk dungeons, loot tables)
+- Sprite animation & entity systems
+- HUD/GUI design
+
 **3D & Visual Design**
 - 3D Modeling, Sculpting & Rigging
 - VRM/VTuber Avatar Creation
 - 3D Printing & CAD Design
 - Texture Mapping & UV Unwrapping
 
+**Tooling & Writing**
+- Custom static-site parser (Brewdown — forms, media, collapsibles, tables)
+- Cross-platform launcher scripts (Zen Launcher)
+- Technical writing, fiction, worldbuilding
+
 ---
 
 ## Featured Projects
 
-**Vanity Bot**
-Custom-built Discord bot featuring AI research capabilities, music integration, and real-time responses. Handles 50+ simultaneous chat channels with voice pipeline integration (TTS, FFmpeg, PyAudio).
+**[Operation Chimera](https://coffeebyte.dev/operation_chimera.html)**
+Ongoing sci-fi noir series following a recurring cast caught up in the Chimera Project — a secret program that turns people into engineered hybrid operatives. Characters, locations, and world lore maintained as a nested wiki.
 
-**Educational Worksheets**
-Interactive canvas-based worksheet generators for arithmetic, measurements, currency counting, and vocabulary. Features randomized problems, multi-page print support, and answer key toggling.
+**[Blank Pixel Game](https://coffeebyte.dev/blank_pixel_game.html)**
+Pixel art dungeon crawler built in GameMaker Studio 2. Features a roguelike death loop, loot tables driven by enemy difficulty, procedural dungeon generation, and a story about reassembling a shattered gem.
 
-**Creative Writing**
-Author of sci-fi and fantasy stories including *Infinite Devastation*, *Ever Diamond*, and the ongoing series *Osyra's Tale*.
+**[Zen Launcher](https://coffeebyte.dev/zen_launcher.html)**
+Form-based generator for cross-platform launcher scripts. Outputs `.bat` and `.sh` files with runtime environment checks for ten common environments including Python, Java, Node.js, .NET, and Rust.
 
-**Minecraft Server**
-Custom server management with modpacks like All The Mods 10, including seasonal archives for the community.
+**[Brewdown](https://coffeebyte.dev/brewdown.html)**
+Custom markdown parser powering my site. Supports collapsibles, forms, media embedding, scrollable tables, auto-indexed columns, and other conveniences standard markdown doesn't cover.
+
+**[Vanity Bot](https://coffeebyte.dev/vanity.html)**
+Custom-built Discord bot with AI research capabilities, music integration, and real-time responses. Handles simultaneous chat channels with a voice pipeline (TTS, FFmpeg, PyAudio).
+
+**[Minecraft Community](https://coffeebyte.dev/minecraft.html)**
+Three-server Coffee Block community running vanilla (Paper) and modded (ATM10). Live status via the mcsrvstat API, community-driven rules, and 14+ years of hosting.
+
+**[Educational Worksheets](https://coffeebyte.dev/worksheets.html)**
+Canvas-based generators for arithmetic, measurements, currency counting, and vocabulary. Randomized problems, multi-page print support, and answer-key toggling.
 
 ---
 
