@@ -137,8 +137,15 @@ Canvas-based generators for arithmetic, measurement, currency, and vocabulary â€
 
 <div align="center">
 
-![osyra42's GitHub stats](https://github-readme-stats.vercel.app/api?username=osyra42&show_icons=true&hide_border=true&title_color=C68642&icon_color=C68642&text_color=D8C3A5&bg_color=2B1D14)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osyra42&layout=compact&hide_border=true&title_color=C68642&text_color=D8C3A5&bg_color=2B1D14)
+[![Followers](https://img.shields.io/github/followers/osyra42?style=for-the-badge&logo=github&logoColor=white&color=4B3621&labelColor=2B1D14)](https://github.com/osyra42?tab=followers)
+[![Stars](https://img.shields.io/github/stars/osyra42?style=for-the-badge&logo=github&logoColor=white&color=C68642&labelColor=2B1D14)](https://github.com/osyra42?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=osyra42&style=for-the-badge&color=4B3621&label=PROFILE+VIEWS)
+
+<br>
+
+<!-- Detailed stat cards (render when the github-readme-stats service is up). -->
+[![osyra42's GitHub stats](https://github-readme-stats.vercel.app/api?username=osyra42&show_icons=true&hide_border=true&title_color=C68642&icon_color=C68642&text_color=D8C3A5&bg_color=2B1D14)](https://github.com/osyra42)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osyra42&layout=compact&hide_border=true&title_color=C68642&text_color=D8C3A5&bg_color=2B1D14)](https://github.com/osyra42)
 
 </div>
 
